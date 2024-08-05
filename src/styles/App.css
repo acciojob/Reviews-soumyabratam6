@@ -10,3 +10,36 @@ button{
     justify-content: center;
     align-items: center;
 }
+.person-img{
+    width: 500px;
+    height: 500px;
+}
+.prev-btn{
+    background-color: #27aedb;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.next-btn{
+    margin-left: 10px;
+    background-color: #27aedb;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
+.random-btn{
+    margin-top: 10px;
+    background-color: #27aedb;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border: none;
+    border-radius: 5px;
+    padding: 10px;
+}
